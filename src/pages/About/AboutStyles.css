@@ -1,0 +1,11 @@
+.aboutMain {
+  font-family: 'Industry Book';
+  font-weight: normal;
+  color: darkblue;
+  position: absolute;
+  top: 100px;
+  width: 100%;
+  text-align: center;
+  z-index: 100;
+  display: block;
+}

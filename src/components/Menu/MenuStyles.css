@@ -1,0 +1,9 @@
+a:link,
+a:visited {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+  margin: 0.5em auto;
+  transition: 0.2s;
+  cursor: pointer;
+}

@@ -1,0 +1,12 @@
+/* @import url('https://fonts.googleapis.com/css?family=Gayathri&display=swap'); */
+.text {
+  font-family: 'Industry Book';
+  font-weight: normal;
+  color: aliceblue;
+  position: absolute;
+  top: 10px;
+  width: 100%;
+  text-align: center;
+  z-index: 100;
+  display: block;
+}

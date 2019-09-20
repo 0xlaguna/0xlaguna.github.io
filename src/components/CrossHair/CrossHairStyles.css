@@ -1,0 +1,10 @@
+.hair {
+  position: fixed;
+  margin-top: -3px;
+  margin-left: -2px;
+  background: transparent;
+  border-top: 1px dotted #b71c1c;
+  border-left: 1px dotted #b71c1c;
+  pointer-events: none;
+  z-index: 1000;
+}
