@@ -1,9 +1,9 @@
 import React from 'react';
 
-import './AboutStyles.css';
+import './About.css';
 
 export const About = () => {
   return(
-    <div className="aboutMain">About Me!</div>
+    <div>About Me!</div>
   );
 }

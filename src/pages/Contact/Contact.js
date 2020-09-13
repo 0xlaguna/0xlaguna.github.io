@@ -1,9 +1,9 @@
 import React from 'react';
 
-import './ContactStyles.css';
+import './Contact.css';
 
 export const Contact = () => {
   return(
-    <div className="projectsMain">lagunamichael2@outlook.com</div>
+    <div>lagunamichael2@outlook.com</div>
   );
 }
